@@ -22,10 +22,24 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="495pt" src="https://github-profile-trophy.vercel.app/?username=kamronsaliev&theme=nord&margin-w=10" alt="kamronsaliev" /></a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/komroniddinsoliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komroniddinsoliev" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/kamronsaliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamronsaliev" height="30" width="40" /></a>
+<h3 align="center">📧 Connect with me:</h3>
+
+<p align="center">
+    <a href="https://linkedin.com/in/komroniddin-soliev" target="blank">
+        <img style="margin:10pt" align="center" src="https://cdn-icons-png.flaticon.com/512/124/124011.png" alt="komroniddinsoliev" height="30" width="30" />
+    </a>
+    <a href="https://t.me/Kemron" target="blank">
+        <img style="margin:10pt" align="center" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" alt="komroniddin.soliev" height="30" width="30" />
+    </a>
+    <a href="https://fb.com/komroniddin.soliev" target="blank">
+        <img style="margin:10pt" align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="komroniddin.soliev" height="30" width="30" />
+    </a>
+    <a href="https://instagram.com/kamronsaliev" target="blank">
+        <img style="margin:10pt" align="center" src="https://cdn-icons-png.flaticon.com/512/124/124032.png" alt="kamronsaliev" height="30" width="30" />
+    </a>
+    <a href="mailto:kamron.saliev5@gmail.com" target="blank">
+        <img style="margin:10pt" align="center" src="https://cdn-icons-png.flaticon.com/512/124/124013.png" alt="kamronsaliev" height="30" width="30" />
+    </a>
 </p>
 
 <!--
