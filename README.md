@@ -7,11 +7,11 @@
 </p>
 
 <p align="center" style="margin-top: 10pt; margin-bottom: 10pt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&layout=compact&card_width=445" alt="kamronsaliev" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&layout=compact&card_width=445" alt="kamronsaliev" />
 </p>
 
 <p align="center">
-    <img style="margin-bottom: 5pt" src="https://github-readme-stats.vercel.app/api?username=kamronsaliev&show_icons=true&locale=en&theme=nord&count_private=true" alt="kamronsaliev" />
+    <img style="margin-bottom: 5pt" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamronsaliev&show_icons=true&locale=en&theme=nord&count_private=true" alt="kamronsaliev" />
 </p>
 
 <p align="center">
