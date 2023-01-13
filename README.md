@@ -38,12 +38,12 @@
 
 <!-- GitHub stats -->
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamronsaliev&locale=en&theme=nord&count_private=true&show_icons=true" alt="kamronsaliev" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamronsaliev&locale=en&theme=nord&count_private=true&show_icons=true&hide=contribs,issues" alt="kamronsaliev" />
 </p>
 
 <!-- Streak stats -->
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamronsaliev&theme=nord&no-bg=true&no-frame=true" alt="kamronsaliev" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamronsaliev&theme=nord&count_private=true&no-bg=true&no-frame=true" alt="kamronsaliev" />
 </p>
 
 <!-- Trophies -->
