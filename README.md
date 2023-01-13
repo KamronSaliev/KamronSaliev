@@ -31,14 +31,14 @@
     <img alt="Profile" src="https://komarev.com/ghpvc/?username=kamronsaliev&label=Profile%20views&color=178600&style=flat" />
 </p>
 
-<!-- Most languages -->
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&layout=compact&card_width=445" alt="kamronsaliev" />
-</p>
-
 <!-- GitHub stats -->
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kamronsaliev&locale=en&theme=nord&count_private=true&show_icons=true&hide=contribs,issues" alt="kamronsaliev" />
+</p>
+
+<!-- Most languages -->
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&layout=compact&card_width=445" alt="kamronsaliev" />
 </p>
 
 <!-- Streak stats -->
