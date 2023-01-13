@@ -1,10 +1,24 @@
 <h1 align="center">Hi 👋, I'm Komroniddin Soliev (Kamron) </h1>
 
 <!-- Description -->
-<h4 align="center">I am a passionate <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="13"/> Unity developer with 3+ years of experience <br> and a demonstrated history of game releases on the <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" width="13"/> Apple App Store and <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="13"/> Google Play. <br> Currently living and working in <img src="https://cdn-icons-png.flaticon.com/512/6177/6177136.png" width="13"/> Tashkent, Uzbekistan.</h4>
+<p align="center">
+   <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="12"/> I am a Unity developer with 3+ years of experience and a demonstrated history of <br> mobile game releases on the <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" width="12"/> Apple App Store and <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="12"/> Google Play Store
+</p>
+<p align="center">
+   <img src="https://cdn-icons-png.flaticon.com/512/609/609803.png" width="12"/> Currently living and working in <img src="https://cdn-icons-png.flaticon.com/512/6177/6177136.png" width="12"/> Tashkent, Uzbekistan
+</p>
+<p align="center">
+   <img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="12"/> Here I work on my pet projects for educational purposes
+</p>
+<p align="center">
+   <img src="https://cdn-icons-png.flaticon.com/512/4337/4337288.png" width="12"/> Looking to collaborate with other game developers
+</p>
+<p align="center">
+   <img src="https://cdn-icons-png.flaticon.com/512/7172/7172786.png" width="12"/> Passionate about <img src="https://cdn-icons-png.flaticon.com/512/141/141073.png" width="12"/> games, <img src="https://cdn-icons-png.flaticon.com/512/3867/3867887.png" width="12"/> travelling, <img src="https://cdn-icons-png.flaticon.com/512/2972/2972113.png" width="12"/> photography, <img src="https://cdn-icons-png.flaticon.com/512/755/755347.png" width="12"/> running, <img src="https://cdn-icons-png.flaticon.com/512/3716/3716110.png" width="12"/> anime, <img src="https://cdn-icons-png.flaticon.com/512/2217/2217611.png" width="12"/> movies
+</p>
 
 <!-- Badges -->
-<p align="center" style="margin-top: 10pt; margin-bottom: 10pt">
+<p align="center">
     <a href="https://linkedin.com/in/komroniddin-soliev" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" />
     </a>
@@ -43,20 +57,5 @@
 
 <!-- Trophies -->
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="495pt" src="https://github-profile-trophy.vercel.app/?username=kamronsaliev&theme=nord&margin-w=15&title=Commits,Repositories,Stars,PullRequest&column=4" alt="kamronsaliev" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="495pt" src="https://github-profile-trophy.vercel.app/?username=kamronsaliev&theme=nord&margin-w=15&title=Commits,Followers,Repositories,Stars,PullRequest&column=5" alt="kamronsaliev" /></a> 
 </p>
-
-<!--
-**KamronSaliev/KamronSaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
