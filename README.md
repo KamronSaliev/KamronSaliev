@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komroniddin Soliev (Kamron) </h1>
+<h1 align="center">Hi 👋 I'm Komroniddin Soliev (Kamron) </h1>
 
 <!-- Description -->
 <p align="center">
