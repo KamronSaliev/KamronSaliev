@@ -13,9 +13,6 @@
    <a href="https://linkedin.com/in/komroniddin-soliev" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" />
    </a>
-   <a href="https://t.me/Kemron" target="_blank">
-      <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-61a8de?style=flat&logo=telegram&logoColor=white" />
-   </a>
    <a href="https://fb.com/komroniddin.soliev" target="_blank">
       <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-3a559f?style=flat&logo=facebook&logoColor=white" />
    </a>
