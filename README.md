@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋  I'm Komroniddin Soliev (Kamron) </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=34&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B;I'm+Komroniddin+Soliev+(Kamron)" alt="Typing SVG" />
+</h1>
 
 <!-- Description -->
 <p align="center">
