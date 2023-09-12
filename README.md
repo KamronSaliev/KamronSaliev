@@ -24,7 +24,7 @@
    <a href="https://instagram.com/kamronsaliev" target="_blank">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-c536a4?style=flat&logo=instagram&logoColor=white" />
    </a>
-   <a href="mailto:kamron.saliev5@gmail.com" target="_blank">
+   <a href="mailto:komroniddin.soliev@gmail.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-dd4b39?style=flat&logo=gmail&logoColor=white" />
    </a>
    <img alt="Profile" src="https://komarev.com/ghpvc/?username=kamronsaliev&label=Profile%20views&color=178600&style=flat" />
