@@ -13,7 +13,7 @@
 <!-- Badges -->
 <p align="center">
     <a href="https://gist.github.com/KamronSaliev/a1dbcfaeb64d9c56a2a87b9da0f3ca24" target="_blank">
-        <img alt="Resume" src="https://img.shields.io/badge/-Resume-111111?style=flat&logo=read.cv&logoColor=white" />
+        <img alt="Resume" src="https://img.shields.io/badge/-Resume-2f343f?style=flat&logo=read.cv&logoColor=white" />
     </a>
     <a href="https://linkedin.com/in/komroniddin-soliev" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0084b1?style=flat&logo=linkedin&logoColor=white" />
@@ -30,7 +30,9 @@
     <a href="mailto:komroniddin.soliev@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-dd4b39?style=flat&logo=gmail&logoColor=white" />
     </a>
+    <!--
     <img alt="Profile" src="https://komarev.com/ghpvc/?username=kamronsaliev&label=Profile%20views&color=178600&style=flat" />
+    -->
 </p>
 
 <!-- GitHub stats -->
