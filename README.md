@@ -43,7 +43,9 @@
     -->
     <img src="https://github-readme-stats-kamronsalievs-projects.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&count_private=true&layout=compact&card_width=495" alt="kamronsaliev" />
     <br>
+    <!--
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamronsaliev&theme=nord&count_private=true&no-bg=true&no-frame=true&ring=ffa116&fire=ffa116" alt="kamronsaliev" />
-    <br>
+    <be>
+    -->
     <img width="495pt" src="https://github-trophies.vercel.app/?username=kamronsaliev&theme=nord&margin-w=7&title=Commits,MultiLanguage,Followers,Repositories,Stars&column=5" alt="kamronsaliev" />
 </p>
