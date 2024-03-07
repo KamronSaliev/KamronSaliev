@@ -25,9 +25,6 @@
     <a href="https://leetcode.com/KamronSaliev/" target="_blank">
         <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?style=flat&logo=leetcode&logoColor=white" />
     </a>
-    <a href="https://fb.com/komroniddin.soliev" target="_blank">
-        <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-3a559f?style=flat&logo=facebook&logoColor=white" />
-    </a>
     <a href="https://instagram.com/kamronsaliev" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-c536a4?style=flat&logo=instagram&logoColor=white" />
     </a>
