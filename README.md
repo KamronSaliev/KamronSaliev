@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Senior Game UI Developer / Technical Designer <img src="https://playrix.com/favicons/favicon.ico" width="24" align="top"/><a href="https://playrix.com/" target="_blank"> @Playrix</a>
+    Senior Game UI Developer <img src="https://playrix.com/favicons/favicon.ico" width="24" align="top"/><a href="https://playrix.com/" target="_blank"> @Playrix</a>
 </h3>
 
 <!-- Description -->
