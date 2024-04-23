@@ -42,7 +42,7 @@
     <img src="https://github-readme-stats-kamronsalievs-projects.vercel.app/api?username=kamronsaliev&locale=en&theme=nord&count_private=true&show_icons=true&hide=contribs,issues&card_width=495" alt="kamronsaliev" />
     <br>
     -->
-    <img src="https://github-readme-stats-kamronsalievs-projects.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&count_private=true&layout=compact&card_width=495" alt="kamronsaliev" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=kamronsaliev&locale=en&theme=nord&count_private=true&layout=compact&card_width=495" alt="kamronsaliev" />
     <br>
     <!--
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamronsaliev&theme=nord&count_private=true&no-bg=true&no-frame=true&ring=ffa116&fire=ffa116" alt="kamronsaliev" />
