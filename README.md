@@ -8,7 +8,7 @@
 
 <!-- Description -->
 <p align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="12"/> Game Developer with over 4 years of experience and a demonstrated history of <br> mobile game releases on <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" width="12"/> Apple App Store and <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="12"/> Google Play Store
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="12"/> Game Developer with over 5 years of experience and a demonstrated history of <br> mobile game releases on <img src="https://cdn-icons-png.flaticon.com/512/5977/5977575.png" width="12"/> Apple App Store and <img src="https://cdn-icons-png.flaticon.com/512/6124/6124997.png" width="12"/> Google Play Store
     <br><img src="https://cdn-icons-png.flaticon.com/512/609/609803.png" width="12"/> Currently living and working in <img src="https://cdn-icons-png.flaticon.com/512/6177/6177136.png" width="12"/> Tashkent, Uzbekistan 
     <br><img src="https://cdn-icons-png.flaticon.com/512/560/560216.png" width="12"/> Here on GitHub I work on my projects for educational purposes
     <br><img src="https://cdn-icons-png.flaticon.com/512/7172/7172786.png" width="12"/> Passionate about <img src="https://cdn-icons-png.flaticon.com/512/141/141073.png" width="12"/> video games, <img src="https://cdn-icons-png.flaticon.com/512/3867/3867887.png" width="12"/> hiking, <img src="https://cdn-icons-png.flaticon.com/512/2972/2972113.png" width="12"/> photography, <img src="https://cdn-icons-png.flaticon.com/512/755/755347.png" width="12"/> running, <img src="https://cdn-icons-png.flaticon.com/512/3716/3716110.png" width="12"/> anime
